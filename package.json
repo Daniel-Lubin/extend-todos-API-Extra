@@ -1,0 +1,19 @@
+{
+  "name": "extend-todos-api-extra",
+  "version": "1.0.0",
+  "description": "Extra Credit problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Lubin/extend-todos-API-Extra.git"
+  },
+  "author": "Daniel Lubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Lubin/extend-todos-API-Extra/issues"
+  },
+  "homepage": "https://github.com/Daniel-Lubin/extend-todos-API-Extra#readme"
+}
